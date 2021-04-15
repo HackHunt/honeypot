@@ -1,11 +1,9 @@
 ## Honeypot
 
-- A honeypot is a computer security mechanism set to detect, deflect, or, in some manner, counteract 
-attempts at unauthorized use of information systems. 
-- It attracts Cyber Attacks by mimicking as a target for the attacker. 
-- Also, used as a distraction for hackers from the real target. 
-- The Program generates a log file containing attacker's IP, Port and Time of
-when conncetion was made.
+- A honeypot is a computer security mechanism set to detect, deflect, or, in some manner, counteract attempts at unauthorized use of information systems.
+- It attracts Cyber Attacks by mimicking a target for the attacker.
+- Also, used as a distraction for hackers from the real target.
+- The Program generates a log file containing the attacker's IP, Port, and Time of when the connection was made.
 
 ### Supports Platform:
 Linux, Debain
